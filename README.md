@@ -39,6 +39,6 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=7PVHHZoAAA
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0b1f3a?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7PVHHZoAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3152--6000-b87333?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3152-6000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1f3a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-reza-tolouie-nasab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1f3a?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-toloueinasab/)
 
 Open to research collaborations in CFD, heat transfer and biofluid mechanics.
