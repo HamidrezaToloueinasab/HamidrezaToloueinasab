@@ -25,6 +25,7 @@ published experiments.
 | Nº | Episode | Result |
 |:--:|---|---|
 | 01 | [When does a wake start to oscillate?](https://github.com/HamidrezaToloueinasab/flow-physics-in-simulation/tree/main/episodes/01-vortex-street) (lattice Boltzmann, Re = 40 vs 100) | St = 0.166 vs 0.164 experiment |
+| 02 | [Why isn't blood flow parabolic?](https://github.com/HamidrezaToloueinasab/flow-physics-in-simulation/tree/main/episodes/02-womersley) (pulsatile Womersley flow, α = 1, 5, 15) | 0.003 % vs exact solution |
 
 ### Selected publication
 
